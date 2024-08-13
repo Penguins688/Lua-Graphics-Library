@@ -9,7 +9,7 @@
 
 ## Running
 
-**Make sure you have a main.lua file with the update function in you src directory**
+**Make sure you have a main.lua file with the update function in your src directory**
 
 **To run the project enter this command:**
 
