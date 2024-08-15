@@ -1,6 +1,0 @@
-gcc -o run engine/engine.c $(sdl2-config --cflags --libs) \
-    -I/opt/homebrew/Cellar/lua/5.4.7/include/lua5.4 \
-    -L/opt/homebrew/Cellar/lua/5.4.7/lib \
-    -I/opt/homebrew/Cellar/sdl2_mixer/2.8.0/include/SDL2 \
-    -L/opt/homebrew/Cellar/sdl2_mixer/2.8.0/lib \
-    -llua -lm -ldl -lSDL2_image -lSDL2_ttf -lSDL2_mixer
